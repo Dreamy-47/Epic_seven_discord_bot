@@ -1,4 +1,17 @@
 {
     "token":"ODgyNTMxMTg1OTIwNzI5MDk4.YS8vNw.Ty6G_dwAiNKywkJ9FGXRBWEQsFw",
-    "空幹":"https://media.discordapp.net/attachments/619903024135012382/853446124136300554/image_1623547791.gif"
+    "空幹":"https://media.discordapp.net/attachments/619903024135012382/853446124136300554/image_1623547791.gif",
+    "Equip_rate":{
+        "暴傷":1.143,
+        "暴擊率":1.6,
+        "速度":2,
+        "攻擊":0.0887,
+        "防禦":0.161,
+        "生命":0.01776,
+        "生命%":1,
+        "攻擊%":1,
+        "防禦%":1,
+        "效命":1,
+        "效抗":1
+    }
 }
